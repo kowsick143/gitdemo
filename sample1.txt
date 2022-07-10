@@ -1,2 +1,5 @@
 Hi How are you
 very good , We will goahed for projection
+Hello Guys, we have a standup by 11 AM IST
+pl be prepare always so, we can have the same 
+pl move the same in to production.
