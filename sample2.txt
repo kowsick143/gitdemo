@@ -1,0 +1,10 @@
+Hi Hellowwwwweeee
+git init - for initiate git
+git add "sample file" 
+git commit - commit statement
+git push - u origin master
+
+for all add
+git add
+git commit
+git push
